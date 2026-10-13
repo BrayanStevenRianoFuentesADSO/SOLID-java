@@ -1,0 +1,8 @@
+servicio/OrderProcessor.class
+model/Order.class
+notificacion/EmailReceiptSender.class
+notificacion/ReceiptSender.class
+payment/PaymentMethod.class
+payment/CreditCardPayment.class
+payment/PayPalPayment.class
+com/mycompany/principiossolid/PrincipiosSolid.class

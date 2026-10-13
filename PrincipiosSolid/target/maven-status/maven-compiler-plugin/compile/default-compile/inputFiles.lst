@@ -1,0 +1,8 @@
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/com/mycompany/principiossolid/PrincipiosSolid.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/notificacion/ReceiptSender.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/servicio/OrderProcessor.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/payment/CreditCardPayment.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/notificacion/EmailReceiptSender.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/model/Order.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/payment/PaymentMethod.java
+/home/camper/NetBeansProjects/PrincipiosSolid/src/main/java/payment/PayPalPayment.java
